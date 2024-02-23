@@ -19,7 +19,7 @@ class ItemProviders extends ChangeNotifier
       itemName:"Red Canvas", itemDesc: 'trendy and stylish', price: '\$25',itemImage:"assets/redCanvas-removebg-preview.png"
     ),
     Items(
-      itemName:"teal Sports shoes", itemDesc: 'For hiking and rock climbing', price: '\$25',itemImage:"assets/tealShoes-removebg-preview.png"
+      itemName:"Teal Sports shoes", itemDesc: 'For hiking and rock climbing', price: '\$25',itemImage:"assets/tealShoes-removebg-preview.png"
     ),
     Items(
       itemName:"Black Formal shoes", itemDesc: 'For a perfect professional look', price: '\$25',itemImage:"assets/blackFormals-removebg-preview.png"

@@ -12,9 +12,10 @@ class Cart extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title:Text("YOUR SHOPPING BAG",
+        title:Text("Shopping Cart",
           style: TextStyle(
             color: Colors.white,
+            fontSize: 25,
           ),),
         backgroundColor: Colors.deepPurple,
         actions: [
